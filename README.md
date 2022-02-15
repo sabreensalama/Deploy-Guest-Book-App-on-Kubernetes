@@ -46,3 +46,4 @@ e.) Container port should be 80.
 
 Create a service named frontend. Its type should be NodePort, port should be 80 and its nodePort should be 30009.
 
+![image](https://user-images.githubusercontent.com/22060592/154108674-a1a2c41f-e79e-4d63-a6ec-d52dd53d87e3.png)
